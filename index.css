@@ -1,0 +1,49 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #000;
+}
+
+.navbar {
+  background-color: #000;
+  color: #fff;
+  padding: 20px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar .logo {
+  font-size: 32px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.container {
+  padding: 100px 72px;
+}
+
+.container h1 {
+  font-size: 112px;
+  margin-bottom: 0;
+}
+
+.container p {
+  font-size: 42px;
+  margin-bottom: 40px;
+}
+
+.play-store-button img {
+  width: 220px;
+  margin-top: 24px;
+  height: auto;
+}
